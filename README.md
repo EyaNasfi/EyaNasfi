@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eya Nasfi</h1>
 <h3 align="center">I'm a computer engineering student from Tunisia</h3>
 
-<p align="left"> <img src="https://img.freepik.com/vecteurs-libre/programmeur-travaillant-php_52683-22998.jpg?t=st=1720684777~exp=1720688377~hmac=4e9fd54a406079d047caccb12124003293232d87ea550424b01a99e2756dec43&w=740" alt="eyanasfi" /> </p>
-
 - 🔭 I’m currently working on [Gestion des visites](https://github.com/EyaNasfi/Gestion_des_visites_sujet_stage_2024)
 
 - 🌱 I’m currently learning **Angular,nextjs,sprintboot,flutter**
@@ -10,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/EyaNasfi?tab=repositories](https://github.com/EyaNasfi?tab=repositories)
 
 - 📫 How to reach me **eya.nasfi@esprit.tn**
-
+<p align="left"> <img src="https://img.freepik.com/vecteurs-libre/programmeur-travaillant-php_52683-22998.jpg?t=st=1720684777~exp=1720688377~hmac=4e9fd54a406079d047caccb12124003293232d87ea550424b01a99e2756dec43&w=740" alt="eyanasfi" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eya-nasfi-4615b5285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya-nasfi-4615b5285/" height="30" width="40" /></a>
