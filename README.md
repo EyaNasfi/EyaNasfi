@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya Nasfi</h1>
 <h3 align="center">I'm a computer engineering student from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyanasfi&label=Profile%20views&color=0e75b6&style=flat](https://iconscout.com/lottie-animation/female-web-developer-7362400)](https://dribbble.com/shots/5757719-Woman-works-hard/attachments/11037430?mode=media)" alt="eyanasfi" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=eyanasfi&label=Profile%20views&color=0e75b6&style=flat](https://iconscout.com/lottie-animation/female-web-developer-7362400)](https://dribbble.com/shots/5757719-Woman-works-hard/attachments/11037430?mode=media)](https://img.freepik.com/vecteurs-premium/developpeur-utilisant-mobile_24640-79630.jpg?w=900)" alt="eyanasfi" /> </p>
 
 - 🔭 I’m currently working on [Gestion des visites](https://github.com/EyaNasfi/Gestion_des_visites_sujet_stage_2024)
 
