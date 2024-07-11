@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya Nasfi</h1>
 <h3 align="center">I'm a computer engineering student from Tunisia</h3>
 
-<p align="left"> <img src="https://img.freepik.com/vecteurs-libre/illustration-concept-revision-code_114360-4289.jpg?t=st=1720684655~exp=1720688255~hmac=0c1c179af64dc0068a6df43ee67216046b2ae64409cb87359af31043b48dedab&w=740" alt="eyanasfi" /> </p>
+<p align="left"> <img src="https://img.freepik.com/vecteurs-libre/programmeur-travaillant-php_52683-22998.jpg?t=st=1720684777~exp=1720688377~hmac=4e9fd54a406079d047caccb12124003293232d87ea550424b01a99e2756dec43&w=740" alt="eyanasfi" /> </p>
 
 - 🔭 I’m currently working on [Gestion des visites](https://github.com/EyaNasfi/Gestion_des_visites_sujet_stage_2024)
 
