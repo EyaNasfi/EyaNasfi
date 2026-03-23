@@ -1,47 +1,59 @@
 <h1 align="center">Hi 👋, I'm Aya Nasfi</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Cybersecurity Engineer 🔐</h3>
+<h3 align="center">Cybersecurity & AI Engineering Student | EURECOM 🎓</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Computer Engineering student from Tunisia  
-- 🔐 Passionate about **Cybersecurity & Mobile Security**  
-- 🧠 Practicing through **Mobisec challenges**:  
-  👉 https://challs.reyammer.io/  
-- 🌱 Currently learning: **Angular, Next.js, Spring Boot, Flutter**  
+- 🎓 Double degree student (ESPRIT & EURECOM)  
+- 🔐 Specializing in **Cybersecurity (Systems, Mobile & Hardware Security)**  
+- 🤖 Strong background in **AI & Computer Vision**  
+- 🧠 Currently exploring:
+  - Hardware Security  
+  - Image Security & Adversarial Attacks  
 
 ---
 
-### 🛠️ Skills & Technologies
-- 💻 Programming: C, C++, Java, Python, PHP, JavaScript  
-- 🌐 Web: HTML, CSS, Symfony  
-- 📱 Mobile & Tools: Flutter, Firebase  
-- 🔍 Cybersecurity: Reverse Engineering, APK analysis (JADX, APKTool, Frida)  
-- 🛢️ Databases: MySQL, Oracle  
-- ⚙️ Others: Git, Linux, Arduino  
+### 🔐 Cybersecurity Experience
+- Reverse engineering Android applications (APK, JNI)
+- Binary exploitation (BOF, race conditions)
+- Cryptanalysis (brute force, weak hashing)
+- Security tools: Ghidra, Nmap, Hashcat, Kali Linux  
 
 ---
 
-### 📂 Projects
-🔗 Explore my work:  
+### 🤖 AI & Computer Vision
+- OCR systems (CRAFT, TrOCR)
+- Object detection (YOLOv8)
+- Image processing (denoising, deblurring, reconstruction)
+- ML models: CNN, RNN, LSTM  
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: C, C++, C#, Java, Python, PHP, JavaScript  
+- 🌐 Web: Django, Symfony, React  
+- 📱 Mobile: FlutterFlow  
+- 🛢️ Databases: PostgreSQL, MySQL, MongoDB, Oracle  
+- ⚙️ Tools: Git, Docker, Agile/Scrum  
+
+---
+
+### 🧩 Projects
+- 🧠 **NeuralDoxa** – AI-powered medical fraud detection & OCR  
+- 🖼️ **Image Enhancement & Restoration** – Deep learning for image reconstruction  
+- 🔐 **Cybersecurity Challenges** – Mobisec & System exploitation  
+
+🔗 More projects:  
 👉 https://github.com/EyaNasfi?tab=repositories  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: **aya.nasfi@eurecom.fr**  
-- 💼 LinkedIn:  
-<a href="https://linkedin.com/in/aya-nasfi-4615b5285/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+### 📫 Contact
+- 📧 aya.nasfi@eurecom.fr  
+- 💼 LinkedIn: https://linkedin.com/in/aya-nasfi-4615b5285/
 
 ---
 
-### ⚡ Fun Fact
-I enjoy solving security challenges and understanding how systems can be broken… and secured 🔐
-
----
-
-<p align="center">
-  <img src="https://img.freepik.com/vecteurs-libre/programmeur-travaillant-php_52683-22998.jpg" alt="developer" width="500"/>
-</p>
+### ⚡ Focus
+Building **secure and intelligent systems** at the intersection of  
+👉 AI + Cybersecurity + Systems Engineering
