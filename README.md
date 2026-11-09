@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
 </div>
 
-<h1 align="center">Hey 👋, I'm Eya Nasfi</h1>
+<h1 align="center">Hey 👋, I'm   Aya Nasfi</h1>
 
 <h3 align="center">Data Science Engineering Student • Security & AI Enthusiast • Software Engineering Intern</h3>
 
